@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I'm a research assistant at Tsinghua University, who currently working on a project about near real-time aviation carbon emission.
+
+- 🌱 you can find my resume in
+
+- 📫 How to reach me: kowdataanalyze@gmail.com
+
+
 <!--
 **KowComical/KowComical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
