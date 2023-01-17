@@ -2,7 +2,7 @@
 
 - 🔭 I'm a research assistant at Tsinghua University, who currently working on a project about near real-time aviation carbon emission.
 
-- 🌱 you can find my resume in
+- 🌱 you can find my resume in https://github.com/KowComical/KowComical/blob/master/Xuanren's%20Resume.pdf
 
 - 📫 How to reach me: kowdataanalyze@gmail.com
 
