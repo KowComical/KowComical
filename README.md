@@ -2,7 +2,7 @@
 
 - 🔭 I'm a research assistant at Tsinghua University, who currently working on a project about near real-time aviation carbon emission.
 
-- 🌱 you can find my resume in https://ossified-marten-13b.notion.site/Online-Resume-25deeebc03f047bebc730abd81067db4
+- 🌱 you can find my resume in https://www.notion.so/Xuanren-Song-286e9f01d80c8041b067cb1e0af34144?source=copy_link
 
 - 📫 How to reach me: kowdataanalyze@gmail.com
 
