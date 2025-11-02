@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm a research assistant at Tsinghua University, who currently working on a project about near real-time aviation carbon emission.
+- 🔭 I'm a Master of AI student at Monash University and a research assistant at Tsinghua University.
 
 - 🌱 you can find my resume in https://www.notion.so/Xuanren-Song-286e9f01d80c8041b067cb1e0af34144?source=copy_link
 
