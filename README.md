@@ -1,23 +1,20 @@
-### Hi there 👋
+# Hi, I'm Xuanren Song
 
-- 🔭 I'm a Master of AI student at Monash University and a research assistant at Tsinghua University.
+### Currently building Planetary Monitor.
 
-- 🌱 you can find my resume in https://www.notion.so/Xuanren-Song-286e9f01d80c8041b067cb1e0af34144?source=copy_link
+An explorer for atmosphere, land, ocean, climate, and human-activity datasets.
 
-- 📫 How to reach me: kowdataanalyze@gmail.com
+[![A pale-blue Earth horizon with orbital arcs](assets/planetary-banner.png)](https://planetary-monitor.com/)
 
+### [Visit Planetary Monitor →](https://planetary-monitor.com/)
 
-<!--
-**KowComical/KowComical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Master of Artificial Intelligence · Monash University · 2024–2025<br>
+Previously Research Assistant, Carbon Monitor Project · Tsinghua University · 2022–2024
+
+---
+
+[CV](assets/Xuanren-Song-CV.pdf) · [Email](mailto:kowdataanalyze@gmail.com)
