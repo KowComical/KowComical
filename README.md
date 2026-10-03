@@ -8,7 +8,7 @@ An explorer for atmosphere, land, ocean, climate, and human-activity datasets.
 
 ### [Visit Planetary Monitor →](https://planetary-monitor.com/)
 
-[About me](#about-me) · [CV](#curriculum-vitae) · [Experience](#experience) · [Publications](#publications) · [Projects](#projects) · [Current project](#current-project)
+[About me](#about-me) · [CV](#curriculum-vitae) · [Experience](#experience) · [Publications](#publications) · [Projects](#projects)
 
 ## About me
 
@@ -100,18 +100,6 @@ I co-developed the CarbonMonitor-Power research dataset and independently develo
 **Master's thesis · Monash University**
 
 An explainable AI framework for daily national CO₂ emissions forecasting, integrating energy, mobility, calendar, and event drivers. Thesis mark: **90 (High Distinction)**.
-
-## Current project
-
-### Planetary Monitor & Planetary AI
-
-**2026–present · In development**
-
-I'm contributing to an integrated explorer for atmosphere, land, ocean, climate, and human-activity datasets, with globe, map, and timeline views.
-
-Alongside the explorer, I'm researching and developing **Planetary AI**: a conversational interface for querying Earth-system data and producing interpretable comparisons, charts, and maps.
-
-[**Explore Planetary Monitor →**](https://planetary-monitor.com/)
 
 ---
 
